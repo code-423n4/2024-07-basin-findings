@@ -1,0 +1,8 @@
+{
+  "contest": 417,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "The upgradeTo and _upgradeToAndCall functions lack sufficient access control.",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/3"
+}
