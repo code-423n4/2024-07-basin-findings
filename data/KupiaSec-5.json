@@ -1,0 +1,8 @@
+{
+  "contest": 417,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "Potential Issue with Aquifer Mapping Update after WellUpgradeable Contract Upgrades",
+  "issueId": 5,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/5"
+}
