@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "ZanyBonzy",
+  "risk": "2",
+  "title": "Incorrectly assigned `decimal1` parameter upon decoding",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/17",
+  "originalIssueId": 73,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/73"
+}
