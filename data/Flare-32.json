@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Flare",
+  "risk": "2",
+  "title": "Incorrectly checking for `decimal1` with `decimal0`.",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/32",
+  "originalIssueId": 107,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/107"
+}
