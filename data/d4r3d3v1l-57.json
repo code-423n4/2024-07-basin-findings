@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "d4r3d3v1l",
+  "risk": "3",
+  "title": "Incorrect Conditional Check for Decimals Leading to Incorrect Calculations",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/57",
+  "originalIssueId": 57,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/57"
+}
