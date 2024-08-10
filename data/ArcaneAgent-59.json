@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "ArcaneAgent",
+  "risk": "2",
+  "title": "pd.currentPrice in calcReserveAtRatioSwap() is not updated correctly.",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/59",
+  "originalIssueId": 55,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/55"
+}
