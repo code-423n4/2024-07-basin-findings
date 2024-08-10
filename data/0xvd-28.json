@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "0xvd",
+  "risk": "2",
+  "title": "Incorrect Condition Check in `decodeWellData` Function",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/28",
+  "originalIssueId": 118,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/118"
+}
