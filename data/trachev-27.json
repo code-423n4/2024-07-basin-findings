@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "trachev",
+  "risk": "2",
+  "title": "`calcReserve` calculates `b` incorrectly",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/27",
+  "originalIssueId": 10,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/10"
+}
