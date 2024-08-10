@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "SAQ",
+  "risk": "3",
+  "title": "Insecure Upgrade Authorization in Minimal Proxy Environments",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/56",
+  "originalIssueId": 61,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/61"
+}
