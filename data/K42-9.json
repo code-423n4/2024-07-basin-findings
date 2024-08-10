@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "K42",
+  "risk": "3",
+  "title": "Divergence between swap and liquidity pricing functions",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/9",
+  "originalIssueId": 119,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/119"
+}
