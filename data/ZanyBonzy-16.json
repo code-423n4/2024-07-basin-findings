@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "ZanyBonzy",
+  "risk": "2",
+  "title": "Incorrect reserve updates for when `targetPrice` is exactly in the middle of high and low pric",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/16",
+  "originalIssueId": 90,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/90"
+}
