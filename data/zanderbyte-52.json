@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "zanderbyte",
+  "risk": "3",
+  "title": "`WellUpgradeable` can be upgraded by anyone",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/52",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/65"
+}
