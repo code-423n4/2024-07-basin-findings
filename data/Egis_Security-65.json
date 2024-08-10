@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Egis_Security",
+  "risk": "2",
+  "title": " `calcReserveAtRatioLiquidity` & `calcReserveAtRatioSwap` doesn't normalize result if loop is exited and return 0",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/65",
+  "originalIssueId": 40,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/40"
+}
