@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "cheatc0d3",
+  "risk": "3",
+  "title": "Incorrect Rate Calculations Due to Insufficient Decimal Handling",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/13",
+  "originalIssueId": 98,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/98"
+}
