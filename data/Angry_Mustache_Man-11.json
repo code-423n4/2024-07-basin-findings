@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Angry_Mustache_Man",
+  "risk": "2",
+  "title": "Stale `lp token supply` used causes wrong current price calculations",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/11",
+  "originalIssueId": 104,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/104"
+}
