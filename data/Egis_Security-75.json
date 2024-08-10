@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Egis_Security",
+  "risk": "3",
+  "title": " `WellUpgradeable::upgradeTo/upgradeToAndCall` lack access control",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/75",
+  "originalIssueId": 3,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/3"
+}
