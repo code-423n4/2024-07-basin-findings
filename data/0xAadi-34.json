@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "0xAadi",
+  "risk": "3",
+  "title": "Incorrect `if` condition is used in the `decodeWellData()` function in `Stable2` contract",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/34",
+  "originalIssueId": 102,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/102"
+}
