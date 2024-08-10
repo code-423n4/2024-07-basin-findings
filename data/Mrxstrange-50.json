@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Mrxstrange",
+  "risk": "2",
+  "title": "Missing Access Control in `upgradeTo` Function",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/50",
+  "originalIssueId": 68,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/68"
+}
