@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "macart224",
+  "risk": "2",
+  "title": "Incorrect Decimal Validation in decodeWellData Function Leading to Inaccurate Calculations and Overflows",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/48",
+  "originalIssueId": 71,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/71"
+}
