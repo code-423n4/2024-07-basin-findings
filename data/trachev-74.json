@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "trachev",
+  "risk": "3",
+  "title": "`decodeWellData` may return wrong token decimals",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/74",
+  "originalIssueId": 6,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/6"
+}
