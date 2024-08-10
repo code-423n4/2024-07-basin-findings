@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "NoOne",
+  "risk": "2",
+  "title": "Unauthorized Contract Upgrade Vulnerability",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/49",
+  "originalIssueId": 69,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/69"
+}
