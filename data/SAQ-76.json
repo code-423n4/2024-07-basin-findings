@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "SAQ",
+  "risk": "3",
+  "title": "Inconsistent Decimal Handling in `decodeWellData` Function",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/76",
+  "originalIssueId": 2,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/2"
+}
