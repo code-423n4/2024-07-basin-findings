@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "0xRiO",
+  "risk": "3",
+  "title": "[H-1] Incorrect check while decoding decimals of provided pair of tokens",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/29",
+  "originalIssueId": 111,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/111"
+}
