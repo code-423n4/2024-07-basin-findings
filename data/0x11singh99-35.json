@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "0x11singh99",
+  "risk": "3",
+  "title": "Due to no access control on `WellUpgradeable::_authorizeUpgrade()` anyone can change the implementation contract and can destroy the main Proxy contract.",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/35",
+  "originalIssueId": 101,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/101"
+}
