@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Incorrect conditional check in `decodeWellData` function ",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/67",
+  "originalIssueId": 28,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/28"
+}
