@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "0xSecuri",
+  "risk": "3",
+  "title": "Instant upgrade vulnerability allows permanent DoS and fund lock in Wells",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/69",
+  "originalIssueId": 24,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/24"
+}
