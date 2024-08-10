@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Egis_Security",
+  "risk": "2",
+  "title": "Stable2LUT1::getRatiosFromPriceLiquidity - In extreme cases, `updateReserve` will underflow before the price can converge",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/22",
+  "originalIssueId": 44,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/44"
+}
