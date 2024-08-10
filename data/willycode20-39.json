@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "willycode20",
+  "risk": "3",
+  "title": "Incorrect calculations across multiply functions due to wrong decimal assignment can be harnessed by an attacker to steal from the protocol.",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/39",
+  "originalIssueId": 89,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/89"
+}
