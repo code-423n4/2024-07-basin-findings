@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Honour",
+  "risk": "2",
+  "title": "incorrect check in decoding well data via `decodeWellData` can lead to wrong scaling of reserves and wrong calculations",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/45",
+  "originalIssueId": 78,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/78"
+}
