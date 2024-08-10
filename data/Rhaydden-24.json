@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Rhaydden",
+  "risk": "2",
+  "title": "Non-compliance with EIP-1822 Standard in `WellUpgradeable` Contract",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/24",
+  "originalIssueId": 36,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/36"
+}
