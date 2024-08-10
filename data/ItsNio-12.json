@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "ItsNio",
+  "risk": "3",
+  "title": "Most functions of `Stable2.sol` are incompatible with `Well.sol`, allowing malicious users to steal funds.",
+  "issueId": 12,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/12",
+  "originalIssueId": 103,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/103"
+}
