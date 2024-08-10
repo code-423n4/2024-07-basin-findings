@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "SAQ",
+  "risk": "2",
+  "title": "Flawed Access Control in `notDelegatedOrIsMinimalProxy` Modifier Allows Unauthorized Function Calls",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/54",
+  "originalIssueId": 63,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/63"
+}
