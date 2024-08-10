@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "stuart_the_minion",
+  "risk": "3",
+  "title": "Incorrect Decimal Checking in the `Stable2::decodeWellData()` function",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/41",
+  "originalIssueId": 86,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/86"
+}
