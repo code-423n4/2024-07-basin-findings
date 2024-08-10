@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "mgf15",
+  "risk": "3",
+  "title": "anyone can change the implementation contract due to no access control .",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/53",
+  "originalIssueId": 64,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/64"
+}
