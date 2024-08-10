@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "johnthebaptist",
+  "risk": "2",
+  "title": "Decimal Handling Flaw in decodeWellData Function Leads to Potential Miscalculations",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/40",
+  "originalIssueId": 87,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/87"
+}
