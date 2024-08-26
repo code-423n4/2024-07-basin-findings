@@ -1,0 +1,10 @@
+{
+  "contest": 417,
+  "handle": "Walter",
+  "risk": "3",
+  "title": "Unrestricted Contract Upgrade Mechanism in ``WellUpgradeable`` Allows for Arbitrary Implementation Changes and Potential Fund Drainage",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2024-07-basin-findings/issues/60",
+  "originalIssueId": 54,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-07-basin-validation/issues/54"
+}
