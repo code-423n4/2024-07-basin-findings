@@ -17,7 +17,7 @@ A C4 audit is an event in which community participants, referred to as Wardens, 
 
 During the audit outlined in this document, C4 conducted an analysis of the Basin smart contract system written in Solidity. The audit took place between July 29 — August 8, 2024.
 
-Following the C4 audit, an Invitational audit was conducted with a smaller subset of wardens to review the sponsor’s mitigated code. The final report including those results will be linked here once published.
+Following the C4 audit, an Invitational audit was conducted with a smaller subset of wardens to review the sponsor’s mitigated code. The final report including those results can be viewed [here](https://github.com/code-423n4/2024-08-basin-findings/blob/main/report.md).
 
 ## Wardens
 
